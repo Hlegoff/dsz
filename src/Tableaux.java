@@ -89,6 +89,7 @@ public class Tableaux {
 		   
 		  for(String sousTab[] : tab)
 		  {
+			  
 		    i = 0;
 		    for(String str : sousTab)
 		    {     
