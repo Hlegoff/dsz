@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Boucles {
 
 
+
+
 	public static void main(String[] args) {
 		
 		
