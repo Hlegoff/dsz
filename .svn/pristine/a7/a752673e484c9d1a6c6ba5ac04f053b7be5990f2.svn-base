@@ -1,0 +1,13 @@
+Une petite astuce : lorsque vous n'avez qu'une instruction dans votre boucle, 
+vous pouvez enlever les accolades, car elles deviennent superflues, 
+tout comme pour les instructions if, else if ou else.
+
+Les boucles vous permettent simplement d'effectuer des tâches répétitives.
+Il existe plusieurs sortes de boucles :
+la boucle while(condition){…} évalue la condition puis exécute éventuellement un tour de boucle (ou plus) ;
+la boucle do{…}while(condition); fonctionne exactement comme la précédente, mais effectue un tour de boucle
+quoi qu'il arrive ;
+la boucle for permet d'initialiser un compteur, une condition et un incrément dans sa déclaration
+afin de répéter un morceau de code un nombre limité de fois.
+Tout comme les conditions, si une boucle contient plus d'une ligne de code à exécuter, vous devez l'entourer 
+d'accolades afin de bien en délimiter le début et la fin.
