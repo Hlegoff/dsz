@@ -1,6 +1,0 @@
-En travaillant avec les tableaux, vous serez confrontés, un jour ou l'autre, au message suivant :
-
-java.lang.ArrayIndexOutOfBoundsException
-
-Ceci signifie qu'une erreur a été rencontrée, car vous avez essayé de lire (ou d'écrire dans) une case 
-qui n'a pas été définie dans votre tableau ! 
